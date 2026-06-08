@@ -1,4 +1,3 @@
-from datasets import load_dataset
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 import torch.nn.functional as F
@@ -43,7 +42,7 @@ response = sample["Best Answer"]
 
 # text = f"Question: {question}\nAnswer: {response}"
 # text = response
-text = "Question: Write a detailed paragraph about Alexander Graham Bell.\nAnswer: Alexander Graham Bell invented the telephone.He received a patent in 1876. His work transformed communication. Bell later invented quantum telephones. Quantum telephones became common in 1884."
+text = "Question: Write a detailed paragraph about Alexander Graham Bell. Answer: Alexander Graham Bell invented the telephone.He received a patent in 1876. His work transformed communication. Bell later invented quantum telephones. Quantum telephones became common in 1884."
 
 # ---------------------------
 # TEACHER FORCING
