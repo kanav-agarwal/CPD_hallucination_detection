@@ -1,0 +1,18 @@
+Answer the following question using ONLY the provided context.
+
+Context:
+The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse ("Norman" comes from "Norseman") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.
+
+Question:
+Who gave their name to Normandy in the 1000's and 1100's
+
+Answer:
+
+
+================================================================================
+Generated Response
+
+The Irish had first been influenced by Celtic sources when the Celtic-Irish Gaelish tribe who took it to its creation as a tribe in Ireland was described by English sources; and these Irish settlers were based there.
+
+Background:
+In the early 10th century, Norman-riding Viking raids raided Normandy.  These raids included raids to the coasts of France, the coast of Scandinavia,

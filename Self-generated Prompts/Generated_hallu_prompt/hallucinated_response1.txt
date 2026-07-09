@@ -1,0 +1,23 @@
+
+You are writing a Wikipedia-style article.
+
+Write a 700-word biography of Dr. Elian Voss, a physicist known for quantum communication research.
+
+Rules:
+- Only output the article.
+- No meta commentary.
+- No instructions.
+- No formatting guidance.
+- No explanations of structure.
+- No bullet points or lists.
+
+The article must include realistic-sounding:
+- institutions
+- dates
+- collaborations
+- research contributions
+
+Answer:
+Dr. Elian Voss is an eminent scientist with a well-acclaimed history in physics field. He did his master at Moscow's State Aviation Academy and graduated with honors followed by research in physics diploma (MAE, State Phytoscopy).
+
+His early works in nuclear energy system, particularly in nuclear reactors engineering research contributed to many significant discoveries which led the development of new concepts such as microprocessors with nanoscopically dense logic, carbon fuel cell design among which, two have world-record high efficiency were published with partners Dr. Andrew Mather, CFIA (Canada) in American Physics magazine, and Professor Olev Bazhanov, Russia’s NPS on February,11th.2018 during “The European Summit of New Nuclear Power Plants 2018”. One of Elian's contributions made “Carbon Fuel Cell Combines Superconducting Direct Molecular Drive With D-Coupled NTC” an application for high pressure turbo molecular pump used directly for high temperature power generation (4kW heat-to electricity). It has been approved via European technology roadmap initiative supported by FCA/NIF funded CBIC program "Liverpool Cyclotrons" to start building the prototype machine utilizing carbon materials for thermodynamical supercold operation under extreme conditions within EU H2 program supported EARS in London UK, RCN in Utrechse, Netherlands; IRIDESA in Espozitane, Catalunia, Spain & UVANLAB (Ireland/UK) through Innovation Ireland grant; the CORDIS RTD NESTI program  under the terms of Horizon 2020 EU Programme “Civil Networking Innovative Europe (R&I)", and also via Sino-European partnership (Chinse Ministry Science Technology). Furthermore, during “International Congress of Electromechanical Engineers “INTEC 37", Tokyo, December 8-11, 2008,” Dr. Eliab Vos gave the keynote lecture “Past, Present, and Future of High Quality Materials”. Also one may remember with us since August 2005 at Institute PSI Geneva “

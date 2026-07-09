@@ -1,0 +1,15 @@
+Answer the following question using ONLY the provided context.
+
+Context:
+The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse ("Norman" comes from "Norseman") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.
+
+Question:
+When did the Frankish identity emerge?
+
+Answer:
+
+
+================================================================================
+Generated Response
+
+In approximately 1,700 years since the Norman Conquest a whole group of Christian, Lutheran, Jewish and Christian tribes had come together around the area of Norman land in Ireland and the United Kingdom (the Norman Conquest, when Norman people were in power, united it and their land name was "Dunganfie" by Anglo Saxon standards). Norman, Celtic and Norse and other cultures around the area have
